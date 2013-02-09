@@ -1,0 +1,56 @@
+=================================================================
+Integer Repeat Counter (c) 2013 Mohammad Sadegh Rasooli 
+=================================================================
+
+For any questions, please contact Mohammad Sadegh Rasooli rasooli{AT}cs.columbia.edu
+    
+=================================================================
+* Integer Repeat Counter v 0.1
+=================================================================
+
+Release date: Feb 8, 2013
+Authors: Mohammad Sadegh Rasooli 
+
+This is a simple program to find repeated integers.
+
+=================================================================
+* Updates
+=================================================================
+
+v 0.1 - initial release Feb 8, 2013
+
+=================================================================
+* Requirements
+=================================================================
+The following items should be installed:
+
+	* Python: http://python.org/
+
+=================================================================
+* USAGE
+=================================================================
+Usage:
+	>> python findrepeats.py < [inputfile]
+	* Example
+		>> python findrepeats.py <  samplearray.txt 
+	The  samplearray.txt  should look like this (Each inetger in one line):
+		1
+		3
+		2
+		1
+		2
+	The output should look like this:
+		1 occured 2 time(s)
+		2 occured 2 time(s)
+		3 occured 1 time(s)
+
+
+=================================================================
+* WARNING
+=================================================================
+All the values in the stdin file should be integers (each integer in one line)
+
+=================================================================
+Integer Repeat Counter (c) 2013 Mohammad Sadegh Rasooli 
+=================================================================
+
